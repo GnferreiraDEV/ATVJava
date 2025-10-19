@@ -9,7 +9,7 @@ import com.mycompany.dao.ProdutoDAO;
 import com.mycompany.modell.Produto;
 import java.util.List;
 
-public class AppEcommerce {
+public class Ecommerce {
 
     public static void main(String[] args) {
 
